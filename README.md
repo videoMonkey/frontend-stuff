@@ -11,7 +11,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Video](#video)
 - [Audio](#audio)
 - [Tables](#tables)
-- [Module loaders](#module-loaders)
+- [Module Loaders](#module-loaders)
 - [Lazy Loading](#lazy-loading)
 - [Scrolling](#scrolling)
 - [Animations](#animations)
@@ -50,11 +50,13 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics powered by d3
 - [sparkline](http://omnipotent.net/jquery.sparkline/) - Sparkline charts library
 - [sparky](http://prag.ma/code/sparky/) - Sparkline charts library based on rapahel
+- [peity](http://benpickles.github.io/peity/) - Progressive mini <svg> pie, donut, bar and line charts
 - [jsplumb](http://jsplumbtoolkit.com/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
-- [vis.js](http://visjs.org/) - A dynamic, browser based visualization library.
+- [vis.js](http://visjs.org/) - A dynamic, browser based visualization library
 - [timesheet.js](https://sbstjn.github.io/timesheet.js/) - HTML5 & CSS3 time sheets
 - [textures.js](http://riccardoscalco.github.io/textures/) - SVG patterns for data visualization
+- [morrisjs](https://github.com/morrisjs/morris.js) - SVG charts based on jquery and Raphael
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
@@ -69,7 +71,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [openlayers3](http://openlayers.org/) - Mapping library that supports different projections
 - [Kartograph](http://kartograph.org/) - Simple and lightweight framework for building interactive map applications without Google Maps
 - [mapsicon](https://github.com/djaiss/mapsicon) - Collection of maps for nearly every country in the world in PNG and SVG
-- [Cesium](http://cesiumjs.org/) - JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin.
+- [Cesium](http://cesiumjs.org/) - Library for creating 3D globes and 2D maps in a web browser without a plugin
 
 ### Text
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
@@ -81,8 +83,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [bacon](http://baconforme.com/) - Wraps text around a Bézier curve or a line
 - [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
 - [Plumin.js](http://www.pluminjs.com/) - Create and manipulate fonts using javascript
-- [Typeplate](http://typeplate.com/) - A 'typographic starter kit'
+- [Typeplate](http://typeplate.com/) - A typographic starter kit
 - [slabText](https://github.com/freqdec/slabText) - jQuery plugin for producing big, bold & responsive headlines
+- [lining.js](https://github.com/zmmbreeze/lining.js) - A complete DOWN-TO-THE-LINE control for radical web typography
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
@@ -103,14 +106,17 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [dynatables](http://www.dynatable.com/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
 - [DataTables](http://www.datatables.net/) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
 
-### Module loaders
+### Module Loaders
 - [RequireJS](https://github.com/jrburke/requirejs) - A file and AMD module loader
+- [webpack](http://webpack.github.io/) - CommonJs and AMD module loader
+- [Systemjs](https://github.com/systemjs/systemjs) -  ES6, AMD and CommonJS loader
 
-### Lazy-Loading
+### Lazy Loading
 - [Aload](http://pazguille.github.io/aload/) - Asynchronously loads images, scripts, styles and more
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
-- [echo](http://toddmotto.com/labs/echo/) - Standalone JavaScript lazy-loading image micro-library
+- [echo](http://toddmotto.com/labs/echo/) - Standalone lazy loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
+- [layzr.js](http://callmecavs.github.io/layzr.js/) - Dependency-free library for lazy loading images
 
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
