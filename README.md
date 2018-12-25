@@ -106,6 +106,8 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [umbrella](https://github.com/umbrellajs/umbrella) - DOM, Event and AJAX library
 - [zeptojs](http://zeptojs.com/) - Library with a largely jQuery-compatible API
 **[ back to top](#table-of-contents)**
+- [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
+- [framework7](http://www.idangero.us/framework7/) - iOS7 framework
 
 ### Charts
 - [chartist](http://gionkunz.github.io/chartist-js/) - Simple responsive charts
